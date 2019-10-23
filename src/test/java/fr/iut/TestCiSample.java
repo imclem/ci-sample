@@ -8,6 +8,6 @@ public class TestCiSample {
 
     @Test
     public void testTrueIsTrue() {
-        assertTrue(true);
+        assertTrue(false);
     }
 }
